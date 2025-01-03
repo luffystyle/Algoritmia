@@ -1,0 +1,2 @@
+el orden de O(1) es que solo va a hacer una indicaciones; es decir, una sola operación
+en cambio, O(n) es recorrer todas las sublistas

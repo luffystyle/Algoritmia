@@ -1,0 +1,5 @@
+- Siempre ponemos la tabla de resultados
+- Problema de la mochila en programación dinámica es fija de fijas 
+- En programación dinámica, tenemos que usar la respuesta anterior por eso se llama programación dinámica. Es decir, tenemos que usar nuestra
+   respuesta hallada anteriormente. Normalmente, en problemas de mochilas restamos el nuevo valor con el anterior para que nos quede tipo como 
+   un resto.
