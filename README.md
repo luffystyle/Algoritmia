@@ -5,5 +5,5 @@ Sin embargo, las carpetas 5_GONZALO, 6_CHUCHIN y en la subCarpeta "Laboratorios 
 Aquí tienes varias soluciones para ver verificiar del ciclo 2024-2.
 Tienes variedades de soluciones y cada uno con su feedback para ver en qué se equivocaron y evitar que tú lo cometas.
 
-Luego, al final tienes un archivo llamado Githubs. Aquí estan los enunciados de casi todos los ciclos si en caso los quieres buscar.
+Luego, al final tienes un archivo llamado Githubs.txt. Aquí estan los enunciados de casi todos los ciclos si en caso los quieres buscar.
 Pero también encuentras solucionas, algunas en lenguaje c, pero igual sirve.
